@@ -1,0 +1,12 @@
+[07-Sep-2024 22:14:44 UTC] PHP Fatal error:  Cannot redeclare wp_enqueue_scripts() (previously declared in /Users/jeremy/Local Sites/dragonscale/app/public/wp-includes/script-loader.php:2263) in /Users/jeremy/Local Sites/dragonscale/app/public/wp-content/themes/dragonscale/functions.php on line 18
+[07-Sep-2024 22:14:44 UTC] PHP Fatal error:  Cannot redeclare wp_enqueue_scripts() (previously declared in /Users/jeremy/Local Sites/dragonscale/app/public/wp-includes/script-loader.php:2263) in /Users/jeremy/Local Sites/dragonscale/app/public/wp-content/themes/dragonscale/functions.php on line 18
+[08-Sep-2024 16:35:15 UTC] PHP Warning:  Undefined array key "width" in /Users/jeremy/Local Sites/dragonscale/app/public/wp-content/themes/dragonscale-block/functions.php on line 9
+[08-Sep-2024 16:35:15 UTC] PHP Warning:  Undefined array key "height" in /Users/jeremy/Local Sites/dragonscale/app/public/wp-content/themes/dragonscale-block/functions.php on line 10
+[08-Sep-2024 17:26:56 UTC] PHP Warning:  Undefined array key "width" in /Users/jeremy/Local Sites/dragonscale/app/public/wp-content/themes/dragonscale-block/functions.php on line 9
+[08-Sep-2024 17:26:56 UTC] PHP Warning:  Undefined array key "height" in /Users/jeremy/Local Sites/dragonscale/app/public/wp-content/themes/dragonscale-block/functions.php on line 10
+[09-Sep-2024 02:27:11 UTC] PHP Warning:  Undefined array key "width" in /Users/jeremy/Local Sites/dragonscale/app/public/wp-content/themes/dragonscale-block/functions.php on line 9
+[09-Sep-2024 02:27:11 UTC] PHP Warning:  Undefined array key "height" in /Users/jeremy/Local Sites/dragonscale/app/public/wp-content/themes/dragonscale-block/functions.php on line 10
+[09-Sep-2024 02:29:48 UTC] PHP Warning:  Undefined array key "width" in /Users/jeremy/Local Sites/dragonscale/app/public/wp-content/themes/dragonscale-block/functions.php on line 9
+[09-Sep-2024 02:29:48 UTC] PHP Warning:  Undefined array key "height" in /Users/jeremy/Local Sites/dragonscale/app/public/wp-content/themes/dragonscale-block/functions.php on line 10
+[09-Sep-2024 02:30:59 UTC] PHP Warning:  Undefined array key "width" in /Users/jeremy/Local Sites/dragonscale/app/public/wp-content/themes/dragonscale-block/functions.php on line 9
+[09-Sep-2024 02:30:59 UTC] PHP Warning:  Undefined array key "height" in /Users/jeremy/Local Sites/dragonscale/app/public/wp-content/themes/dragonscale-block/functions.php on line 10
